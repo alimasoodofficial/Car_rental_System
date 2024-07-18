@@ -1,0 +1,5 @@
+                                               Press 1 for the list of cars                          
+                                                    Press 2 to rent a car
+                                               Press 3 to see list of clients
+                                            Press 4 to enter developer mode
+                                                         Press 5 to exit
